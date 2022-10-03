@@ -1,4 +1,4 @@
-#Lava Platforming
+# Lava Platforming
 
 Help the boy take coins from inside the volcano!
 
